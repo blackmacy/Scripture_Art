@@ -34,4 +34,3 @@ This package is designed for random generation of scripture art. The input is a 
 
 ## Disclaimer
 For any question you can contact [Yijin (Macy) Lee](https://github.com/blackmacy).
-
