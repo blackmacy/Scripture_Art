@@ -28,8 +28,26 @@ This package is designed for random generation of scripture art. The input is a 
 2. Click the "Create" button and then a scripture art will be automatically generated. 
 3. Click the "Next" button to generate a new scripture art.
 4. Click the "Save" button to save your scripture art, which will be saved in the output folder. 
+
 <div align="center">
     <img src="/example.jpg", width="640">
+</div>
+
+## Demonstration of Output
+<div align="center">
+    <img src="/output0.jpg", width="640">
+</div>
+
+<div align="center">
+    <img src="/output1.jpg", width="640">
+</div>
+
+<div align="center">
+    <img src="/output2.jpg", width="640">
+</div>
+
+<div align="center">
+    <img src="/output3.jpg", width="640">
 </div>
 
 ## Disclaimer
