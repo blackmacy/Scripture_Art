@@ -6,7 +6,7 @@ This repository contains our Python implementation with Tk GUI that randomly gen
 
 ## Introduction
 
-This package is designed for random generation of scripture art. The input is a scripture quote, such as John 3:16 and Jeremiah 29:11-13, in the GUI panel. Then the user can generate any number of random scripture art, and save their favorite one(s). To ensure that the color of the scripture text has high contrast against the background, we compute the mean color of the background, and find the complement color in the HSV color space for the text. There is also an iterative scheme that automatically searches for the most suitable font size for the scripture. 
+This package is designed for random generation of scripture art. The input is a scripture quote, such as John 3:16 and Jeremiah 29:11-13, in the GUI panel. Then the user can generate any number of random scripture art images, and save their favorite one(s). To ensure that the color of the scripture text has high contrast against the background, we compute the mean color of the background, and find the complement color in the HSV color space for the text. There is also an iterative scheme that automatically searches for the optimum font size for the scripture.
 
 ## Coding Structure
 1. `./create_scripture_art.py`: The main Python code of our app
