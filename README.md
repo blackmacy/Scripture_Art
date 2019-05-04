@@ -35,7 +35,7 @@ This package is designed for random generation of scripture art. The input is a 
 
 ## Demonstration of Output
 <div align="center">
-    <img src="/output0.jpg", width="640">
+    <img src="/output0.jpg", width="320">
 </div>
 
 <div align="center">
