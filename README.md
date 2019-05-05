@@ -1,6 +1,6 @@
 # Scripture_Art
 
-This project is developed for the [2019 Seattle Code for the Kingdom (C4TK) hackathon](https://codeforthekingdom.org/seattle-hackathon-2019.html). It won the people's choice award for the best overall app. The repository contains our Python implementation with Tk GUI that randomly generates scripture art, i.e., images with Bible verse(s), for the user. 
+This project is developed for the [2019 Seattle Code for the Kingdom (C4TK) hackathon](https://codeforthekingdom.org/seattle-hackathon-2019.html), in which it won the people's choice award for the best overall app. The repository contains our Python implementation with Tk GUI that randomly generates scripture art, i.e., images with Bible verse(s), for the user. 
 
 ## Introduction
 
