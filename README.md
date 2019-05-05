@@ -1,10 +1,12 @@
 # Scripture_Art
 
-This project is developed for the [2019 Seattle Code for the Kingdom (C4TK) hackathon](https://codeforthekingdom.org/seattle-hackathon-2019.html), in which it won the people's choice award for the best overall app. The repository contains our Python implementation with Tk GUI that randomly generates scripture art, i.e., images with Bible verse(s), for the user. 
+This project is developed for the [2019 Seattle Code for the Kingdom (C4TK) hackathon](https://codeforthekingdom.org/seattle-hackathon-2019.html), in which it won the people's choice award for the best overall app. 
+
+The repository contains our Python implementation with Tk GUI that randomly generates scripture art, i.e., images with Bible verse(s), for the user. 
 
 ## Introduction
 
-This package is designed for random generation of scripture art. The input is a scripture quote, such as John 3:16 and Jeremiah 29:11-13, in the GUI panel. Then the user can generate any number of random scripture art images, and save their favorite one(s). To ensure that the color of the scripture text has high contrast against the background, we compute the mean color of the background, and find the complement color in the HSV color space for the text. There is also an iterative scheme that automatically searches for the optimum font size for the scripture.
+This package is designed for random generation of scripture art. The input is a scripture quote, such as John 3:16 and Jeremiah 29:11-13, in the GUI panel. Then the user can generate various styles of random scripture art images, and save their favorite one(s). To ensure that the color of the scripture text has high contrast against the background, we compute the mean color of the background, and find the complement color in the HSV color space for the text. There is also an iterative scheme that automatically searches for the optimum font size for the scripture.
 
 ## Coding Structure
 1. `./create_scripture_art.py`: The main Python code of our app
